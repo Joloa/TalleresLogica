@@ -10,4 +10,10 @@ package taller;
  */
 public class Solucion {
     
+    public static void main(String []args){
+        
+        System.out.println("Hola mundo");
+        
+    }
+    
 }
